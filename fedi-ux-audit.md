@@ -167,3 +167,28 @@ The profile icon in the header opens a settings screen — but the first thing t
 | Settings | Good range of settings — backup, PIN, language, currency | H7 — Flexibility & efficiency | ✅ |
 | Settings | "Ask Fedi" dedicated help entry in settings | H10 — Help & documentation | ✅ |
 | Settings | Settings list structure (icon + label + chevron) is clear and scannable | H6 — Recognition over recall | ✅ |
+
+---
+
+**Severity Legend**
+
+| Symbol | Meaning |
+|---|---|
+| 🔴 | Critical — significant impact on usability, should be prioritised |
+| ⚠️ | Moderate — noticeable friction or inconsistency, worth addressing |
+| ✅ | Works well — effective design worth preserving |
+
+**Heuristics Reference** *(Nielsen Norman Group, 10 Usability Heuristics)*
+
+| Code | Heuristic |
+|---|---|
+| H1 | Visibility of system status |
+| H2 | Match between system and the real world |
+| H3 | User control and freedom |
+| H4 | Consistency and standards |
+| H5 | Error prevention |
+| H6 | Recognition rather than recall |
+| H7 | Flexibility and efficiency of use |
+| H8 | Aesthetic and minimalist design |
+| H9 | Help users recognise, diagnose, and recover from errors |
+| H10 | Help and documentation |
