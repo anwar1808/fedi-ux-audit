@@ -16,7 +16,7 @@ GREY     = RGBColor(0xF4, 0xF4, 0xF6)
 DARKGREY = RGBColor(0x55, 0x55, 0x66)
 ACCENT   = RGBColor(0x2D, 0x6A, 0xD6)
 
-SCREENSHOTS = '/Users/annie/fedi-ux-audit-repo/screenshots/annotated/'
+SCREENSHOTS = '/Users/annie/Annie-Claude/fedi-ux-audit/repo/screenshots/annotated/'
 CRIT = chr(0x25CF)
 MOD  = chr(0x25B3)
 GOOD = chr(0x2713)
@@ -1097,7 +1097,7 @@ def build():
     slide_60(prs)
     slide_90(prs)
 
-    out = '/Users/annie/fedi-ux-audit-deck/fedi-ux-audit.pptx'
+    out = '/Users/annie/Annie-Claude/fedi-ux-audit/deck/fedi-ux-audit.pptx'
     prs.save(out)
     print('Saved:', out)
     print('Total slides:', len(prs.slides))
